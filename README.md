@@ -1,0 +1,1 @@
+A terminal based TCP/IP chat client and server inspired by [Beejs Guide to Network Programming](https://www.amazon.co.uk/Beejs-Guide-Network-Programming-Internet/dp/1705309909/ref=sr_1_1?crid=3J4C5TIX2WJ48&keywords=beej%27s+guide+to+network+programming&qid=1704496240&sprefix=beejs+gui%2Caps%2C71&sr=8-1) writen in C using the UNIX sockets API
